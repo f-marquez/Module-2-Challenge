@@ -10,22 +10,14 @@ Results Overiew
 <br>
 ## 2017
 
-Note that from 2017 to 2018, DQ price grew nearly three-fold, starting at $19.68 and closing at $ 59.44
+Note in 2017, DQ's price grew nearly three-fold, starting at $19.68 and closing at $59.44
 ![Alt text](https://github.com/f-marquez/Module-2-Challenge/blob/main/2017.png?raw=true)
 <br>
 ## 2018
-Note that from 2017 to 2018, DQ price grew nearly three-fold, starting at $19.68 and closing at $ 59.44
+We saw DQ's price take a tumble, going from a starting price of $60.11 closing at $23.40. It lost more than half its value in 2018. <br>
 ![Alt text](https://github.com/f-marquez/Module-2-Challenge/blob/main/2018.png?raw=true)
 
 <br>
-
-
-** STATEMENT ON IMAGES BELOW**
-
-Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
-
-**Insertscreen shots here**
-** STATEMENT ON IMAGES BELOW**
 
 # Summary
 
