@@ -6,16 +6,18 @@ Assist Steve in anylzing stock data on behlaf of his parents who are interested 
 
 # Results
 
-Results
-The analysis is well described with screenshots and code (4 pt).// GRAPH SHOTS and CODE SHOTS B/A
+Results Overiew
 <br>
-**Insertscreen shot 1**
+## 2017
+![Alt text](https://github.com/f-marquez/Module-2-Challenge/blob/main/2017_summary.png?raw=true)
 <br>
-**Insertscreen shot 2**
+## 2018
 <br>
-**Insertscreen shot 3**
+
+![Alt text](https://github.com/f-marquez/Module-2-Challenge/blob/main/2018_summary.png?raw=true)
+
 <br>
-**Insertscreen shot 4**
+
 
 ** STATEMENT ON IMAGES BELOW**
 
