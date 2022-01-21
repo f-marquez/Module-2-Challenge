@@ -1,32 +1,34 @@
-# Module-2-Challenge
-Module 2 Challenge
+# Module_2
+VBA
+<br>
+# Overview
+Assist Steve in anylzing stock data on behlaf of his parents who are interested in investing in alternative energy.
 
-Overview of Project: 
-purpose of this analysis.
+# Results
 
-
-Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
-
-
-Summary: In a summary statement, address the following questions.
-What are the advantages or disadvantages of refactoring code?
-
-How do these pros and cons apply to refactoring the original VBA script?
-Deliverable 2 Requirements
-Structure, Organization, and Formatting Requirements (8 points)
-The written analysis contains the following structure, organization, and formatting:
-
-There is a title, and there are multiple paragraphs (2 pt).
-Each paragraph has a heading (2 pt).
-There are subheadings to break up text (2 pt).
-Links are working, and images are formatted and displayed where appropriate (2 pt).
-Analysis Requirements (12 points)
-The written analysis has the following:
-
-Overview of Project
-The purpose and background are well defined (2 pt).
 Results
-The analysis is well described with screenshots and code (4 pt).
-Summary
-There is a detailed statement on the advantages and disadvantages of refactoring code in general (3 pt).
-There is a detailed statement on the advantages and disadvantages of the original and refactored VBA script (3 pt).
+The analysis is well described with screenshots and code (4 pt).// GRAPH SHOTS and CODE SHOTS B/A
+<br>
+**Insertscreen shot 1**
+<br>
+**Insertscreen shot 2**
+<br>
+**Insertscreen shot 3**
+<br>
+**Insertscreen shot 4**
+
+** STATEMENT ON IMAGES BELOW**
+
+Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
+
+**Insertscreen shots here**
+** STATEMENT ON IMAGES BELOW**
+
+# Summary
+
+**What are the advantages or disadvantages of refactoring code? How do these pros and cons apply to refactoring the original VBA script?**
+
+Among the advantages of refactoring the code is having 'better' code- cleaner, more efficient, legible code that is easier to maintain and continue working with. The ultimate goal is to have code that is easily scaleble to your data demands. One concern of refractoring code is the unknown implications it may have on the work flow if not properly tested- this testing requires time, which at times could be scarse or limited. 
+
+Overall there are many advantages to using VBA. It easily lends itself to the automation repetitive and routine tasks, offers workbooks protection by reducing the use formulas used in Excel reports, and accesibility. On the inverse VBA can be difficult to trouble shoot and debug which ultimately limits its accessibilty/useability.
+
