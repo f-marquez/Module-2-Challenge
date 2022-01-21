@@ -9,11 +9,12 @@ Assist Steve in anylzing stock data on behlaf of his parents who are interested 
 Results Overiew
 <br>
 ## 2017
+
+Note that from 2017 to 2018, DQ price grew nearly three-fold, starting at $19.68 and closing at $ 59.44
 ![Alt text](https://github.com/f-marquez/Module-2-Challenge/blob/main/2017_summary.png?raw=true)
 <br>
 ## 2018
-<br>
-
+Note that from 2017 to 2018, DQ price grew nearly three-fold, starting at $19.68 and closing at $ 59.44
 ![Alt text](https://github.com/f-marquez/Module-2-Challenge/blob/main/2018_summary.png?raw=true)
 
 <br>
