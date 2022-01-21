@@ -11,11 +11,11 @@ Results Overiew
 ## 2017
 
 Note that from 2017 to 2018, DQ price grew nearly three-fold, starting at $19.68 and closing at $ 59.44
-![Alt text](https://github.com/f-marquez/Module-2-Challenge/blob/main/2017_summary.png?raw=true)
+![Alt text](https://github.com/f-marquez/Module-2-Challenge/blob/main/2017.png?raw=true)
 <br>
 ## 2018
 Note that from 2017 to 2018, DQ price grew nearly three-fold, starting at $19.68 and closing at $ 59.44
-![Alt text](https://github.com/f-marquez/Module-2-Challenge/blob/main/2018_summary.png?raw=true)
+![Alt text](https://github.com/f-marquez/Module-2-Challenge/blob/main/2018.png?raw=true)
 
 <br>
 
